@@ -1,0 +1,32 @@
+{
+  "name": "@ftbl/repl",
+  "version": "0.0.0",
+  "description": "Repl helper",
+  "main": "node index",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.x"
+  },
+  "author": "Johnny Hall",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:projectftbl/repl.git"
+  },
+  "dependencies": {
+    "repl": "^0.1.3"
+  },
+  "devDependencies": {
+    "@ftbl/gulp": "^1.0.0",
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.4",
+    "proxyquire": "^1.7.3",
+    "sinon": "^1.17.2",
+    "sinon-as-promised": "^4.0.0",
+    "sinon-chai": "^2.8.0"
+  }
+}
