@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/repl",
+  "name": "@recipher/repl",
   "version": "1.0.0",
   "description": "Repl helper",
   "main": "node index",
@@ -14,13 +14,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/repl.git"
+    "url": "git@github.com:recipher/repl.git"
   },
   "dependencies": {
     "repl": "^0.1.3"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.0",
+    "@recipher/gulp": "^1.0.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
